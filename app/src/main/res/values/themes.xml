@@ -2,7 +2,10 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Pika3D" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="colorButtonNormal">@color/light_blue_button</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
     </style>
 
     <style name="Theme.Pika3D" parent="Base.Theme.Pika3D" />

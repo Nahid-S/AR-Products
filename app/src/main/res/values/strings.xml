@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Pika3D</string>
+    <string name="app_name">Prometheus Glasses</string>
+
+    <string name="button_def">Hello World!</string>
 </resources>
