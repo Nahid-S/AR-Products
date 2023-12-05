@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="cardViewBackgroundColor">#1865B3</color>
+    <color name="cardViewBackgroundColor">#FFFFFF</color>
+    <color name="textViewDColor">#000000</color>
     <!-- Define other colors for night mode -->
 </resources>
