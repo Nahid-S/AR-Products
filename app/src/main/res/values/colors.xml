@@ -14,5 +14,7 @@
     <color name="black_text_color">#000000</color>
     <color name="black_btn_color">#000000</color>
 
+    <color name="cardViewBackgroundColor">#8D00FFE1</color>
+
 
 </resources>

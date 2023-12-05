@@ -67,6 +67,7 @@
         android:outlineAmbientShadowColor="@color/dark_green_button"
         android:outlineSpotShadowColor="@color/dark_green_button"
         app:cardCornerRadius="23dp"
+        android:background="@color/cardViewBackgroundColor"
         app:cardElevation="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -76,12 +77,14 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:background="@color/cardViewBackgroundColor">
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:gravity="center"
+                android:background="@color/cardViewBackgroundColor"
                 android:text="@string/button_def"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
