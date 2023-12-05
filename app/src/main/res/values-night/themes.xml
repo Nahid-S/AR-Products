@@ -5,6 +5,6 @@
     <item name="colorPrimary">@color/dark_primary</item>
     <item name="colorPrimaryDark">@color/dark_primary_dark</item>
     <item name="colorAccent">#00B2E8</item>
-    <!-- Other customizations -->
+    <!-- Othercustomizations -->
 </style>
 </resources>
