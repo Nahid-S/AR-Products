@@ -1,7 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Pika3D" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
-    </style>
+<!-- Dark Theme -->
+<style name="Base.Theme.Pika3D" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <!-- Customize your dark theme colors -->
+    <item name="colorPrimary">@color/dark_primary</item>
+    <item name="colorPrimaryDark">@color/dark_primary_dark</item>
+    <item name="colorAccent">#00B2E8</item>
+    <!-- Other customizations -->
+</style>
 </resources>
