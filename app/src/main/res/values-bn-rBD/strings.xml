@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">Pika3D</string>
     <string name="button_def">Hello World!</string>
+    <string name="take_pic">Please Take a portrait of your Face   or Upload from Device</string>
+    <string name="gallary">Upload From Gallery</string>
+    <string name="gogoAI">Select Frame</string>
 </resources>

@@ -2,4 +2,8 @@
     <string name="app_name">Prometheus Glasses</string>
 
     <string name="button_def">Hello World!</string>
+
+    <string name="take_pic">Take a portrait of your Face</string>
+    <string name="gallary">Upload From Gallery</string>
+    <string name="gogoAI">Select Frame</string>
 </resources>
